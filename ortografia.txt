@@ -1,1 +1,4 @@
 areglo ortografico
+agregando animaciones
+funalizando animaciones
+animaciones implementadas
